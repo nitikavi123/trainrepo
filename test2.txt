@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test file 1, well good to go ...stop 
+=======
+test file 1
+>>>>>>> parent of 9ed2227... C1 -- first change
